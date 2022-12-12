@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  background: rgb(178, 178, 178);
+  width: 50%;
+  height: 450px;
+  position: relative;
+  left: 300px;
+  border-radius: 10px;
+}
+label{
+  font-size: larger;
+  font-weight: bold;
+
+}
+input{
+  border: 1px solid black;
+  border-radius: 7px;
+  padding: 6px;
+  margin: 10px;
+}
+button{
+  padding: 5px;
+  width: 80px;
+  border-radius: 3px;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+}
